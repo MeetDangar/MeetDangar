@@ -1,5 +1,5 @@
 # 🚀 About Me  
-I'm **Meet Dangar**, a DevOps & Cloud Enthusiast from 🇮🇳 India, currently pursuing **MSIT @ CHARUSAT**.  
+I'm **Meet Dangar**, a DevOps & Cloud Enthusiast from in India, currently pursuing **MSIT @ CHARUSAT**.  
 I’m passionate about automation, cloud-native technologies, and building scalable infrastructure.  
 
 🔭 Currently exploring **Cloud Computing, DevOps practices, and Infrastructure as Code**  
