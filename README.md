@@ -14,7 +14,6 @@ I’m passionate about automation, cloud-native technologies, and building scala
 
 ### 🚀 Cloud & DevOps 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.w3schools.blog/linux-tutorial)
-[![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.w3schools.com/aws/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -25,6 +24,8 @@ I’m passionate about automation, cloud-native technologies, and building scala
 ### 💻 Programming & Scripting  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.w3schools.com/python/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
+
 
 ---
 
