@@ -12,13 +12,21 @@ I’m passionate about automation, cloud-native technologies, and building scala
 
 # 🛠️ Tech Stack  
 
-### 🚀 Cloud & DevOps 
+### 🚀 Cloud & DevOps Tools
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.w3schools.blog/linux-tutorial)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.w3schools.com/aws/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/tutorials/)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/tutorials)
+[![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)](https://www.ansible.com)
+[![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-FF8800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+
+
+
 
 
 ### 💻 Programming & Scripting  
