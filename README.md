@@ -1,45 +1,241 @@
-# 🚀 About Me  
-I'm **Meet Dangar**, a DevOps & Cloud Enthusiast from in India, currently pursuing **MSIT @ CHARUSAT**.  
-I’m passionate about automation, cloud-native technologies, and building scalable infrastructure.  
+<h1 align="center">Hi 👋, I'm Meet Dangar</h1>
+<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | AWS Learner</h3>
 
-🔭 Currently exploring **Cloud Computing, DevOps practices, and Infrastructure as Code**  
-🌱 Always learning **Kubernetes, Docker, and CI/CD pipelines**  
-👯 Looking to collaborate on **open-source DevOps projects**  
-💬 Ask me about **Linux, Docker, Kubernetes, and Cloud Platforms**  
-⚡ Fun fact: I enjoy experimenting with new tools and sharing knowledge  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Lover;Linux+Administrator;Always+Learning+New+Technologies" />
+</p>
 
----
-
-# 🛠️ Tech Stack  
-
-### 🚀 Cloud & DevOps Tools
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.w3schools.blog/linux-tutorial)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.w3schools.com/aws/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/tutorials/)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/tutorials)
-[![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)](https://www.ansible.com)
-[![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/Grafana-FF8800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
-
-
-
-
-
-### 💻 Programming & Scripting  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.w3schools.com/python/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeetDangar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-# 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meetdangar) 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.meetdangar@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/meet_dangar_23)
+## 🚀 About Me
 
- 
+<img align="right" alt="DevOps" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🎓 Pursuing **MSIT @ CHARUSAT**
+
+☁️ Passionate about **Cloud Computing & DevOps**
+
+🔭 Currently working on **AWS, Docker, Kubernetes & Terraform**
+
+🌱 Learning **Advanced Kubernetes, CI/CD & Infrastructure as Code**
+
+👯 Looking to collaborate on **Open Source DevOps Projects**
+
+💬 Ask me about:
+
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Git & GitHub
+
+🎯 Goal: Become a Cloud & DevOps Engineer
+
+⚡ Fun Fact: I automate tasks because I hate doing repetitive work 😄
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/meetdangar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dev.meetdangar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/meet_dangar_23">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,prometheus,grafana,ansible" />
+</p>
+
+### 💻 Programming & Scripting
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## ☁️ DevOps Roadmap
+
+```text
+✅ Linux
+✅ Git & GitHub
+✅ AWS Fundamentals
+✅ Docker
+✅ Jenkins
+
+🔄 Terraform
+🔄 Kubernetes
+🔄 Monitoring
+
+🎯 GitOps
+🎯 ArgoCD
+🎯 Advanced AWS
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AWS Cost Optimization Project
+
+Automated AWS Lambda solution to identify and delete stale EBS snapshots for cloud cost optimization.
+
+### 🔹 Docker Projects Collection
+
+Multiple Docker projects including:
+
+- Flask App
+- Node.js App
+- WordPress
+- Nginx
+- Apache
+- Ubuntu SSH
+
+### 🔹 Kubernetes Learning Labs
+
+Hands-on deployments using:
+
+- Pods
+- Deployments
+- Services
+- Ingress
+
+### 🔹 Terraform AWS Infrastructure
+
+Infrastructure as Code using:
+
+- EC2
+- VPC
+- Security Groups
+- S3
+
+### 🔹 Jenkins CI/CD Pipeline
+
+Automated Build → Test → Deploy workflow.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MeetDangar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetDangar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetDangar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetDangar&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MeetDangar&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Kubernetes Administration
+- Terraform
+- CI/CD Pipelines
+- Monitoring & Observability
+- AWS Services
+- Infrastructure as Code
+
+---
+
+## 🎓 Certifications
+
+🏅 AWS Cloud Practitioner (In Progress)
+
+🏅 Docker Essentials
+
+🏅 Linux Administration
+
+🏅 Terraform Associate (Planned)
+
+---
+
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Linux           ███████████░░░░░░░░░░░░   40%
+AWS             █████████░░░░░░░░░░░░░   30%
+Docker          ██████░░░░░░░░░░░░░░░   15%
+Kubernetes      ████░░░░░░░░░░░░░░░░░   10%
+Terraform       ██░░░░░░░░░░░░░░░░░░░    5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MeetDangar/MeetDangar/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 DevOps Philosophy
+
+```yaml
+while(alive){
+    learn();
+    automate();
+    deploy();
+    monitor();
+    improve();
+}
+```
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+<br>
+🚀 Let's Build, Automate & Scale Together 🚀
+</h3>
