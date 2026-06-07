@@ -81,67 +81,6 @@
 
 ---
 
-## ☁️ DevOps Roadmap
-
-```text
-✅ Linux
-✅ Git & GitHub
-✅ AWS Fundamentals
-✅ Docker
-✅ Jenkins
-
-🔄 Terraform
-🔄 Kubernetes
-🔄 Monitoring
-
-🎯 GitOps
-🎯 ArgoCD
-🎯 Advanced AWS
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AWS Cost Optimization Project
-
-Automated AWS Lambda solution to identify and delete stale EBS snapshots for cloud cost optimization.
-
-### 🔹 Docker Projects Collection
-
-Multiple Docker projects including:
-
-- Flask App
-- Node.js App
-- WordPress
-- Nginx
-- Apache
-- Ubuntu SSH
-
-### 🔹 Kubernetes Learning Labs
-
-Hands-on deployments using:
-
-- Pods
-- Deployments
-- Services
-- Ingress
-
-### 🔹 Terraform AWS Infrastructure
-
-Infrastructure as Code using:
-
-- EC2
-- VPC
-- Security Groups
-- S3
-
-### 🔹 Jenkins CI/CD Pipeline
-
-Automated Build → Test → Deploy workflow.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -183,18 +122,6 @@ Automated Build → Test → Deploy workflow.
 - Monitoring & Observability
 - AWS Services
 - Infrastructure as Code
-
----
-
-## 🎓 Certifications
-
-🏅 AWS Cloud Practitioner (In Progress)
-
-🏅 Docker Essentials
-
-🏅 Linux Administration
-
-🏅 Terraform Associate (Planned)
 
 ---
 
