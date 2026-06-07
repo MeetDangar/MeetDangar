@@ -84,9 +84,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MeetDangar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeetDangar&theme=tokyonight">
+</p>
 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetDangar&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeetDangar&theme=tokyonight">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeetDangar&theme=tokyonight">
 </p>
 
 ---
