@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Dangar</h1>
-🚀 Aspiring DevOps Engineer | ☁️ AWS Certified | ☸️ Kubernetes | 🐳 Docker | 🚀 Jenkins | 🐧 Linux
-
+<h3 align="center">
+🚀 Aspiring DevOps Engineer | ☁️ AWS Certified Cloud Practitioner | ☸️ Kubernetes | 🐳 Docker | 🚀 Jenkins | 🐧 Linux
+</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Lover;Linux+Administrator;Always+Learning+New+Technologies" />
 </p>
