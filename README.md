@@ -107,22 +107,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetDangar&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MeetDangar&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - Kubernetes Administration
@@ -131,14 +115,6 @@
 - Monitoring & Observability
 - AWS Services
 - Infrastructure as Code
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MeetDangar/MeetDangar/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
