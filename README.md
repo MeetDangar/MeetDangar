@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Dangar</h1>
-<h3 align="center">🚀 DevOps Enthusiast | ☁️ Cloud Enthusiast | AWS Learner</h3>
+🚀 Aspiring DevOps Engineer | ☁️ AWS Certified | ☸️ Kubernetes | 🐳 Docker | 🚀 Jenkins | 🐧 Linux
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Lover;Linux+Administrator;Always+Learning+New+Technologies" />
