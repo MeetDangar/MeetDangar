@@ -32,7 +32,6 @@
 - AWS
 - Docker
 - Kubernetes
-- Terraform
 - Jenkins
 - Git & GitHub
 
